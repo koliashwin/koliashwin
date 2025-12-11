@@ -81,12 +81,14 @@ Web Animations, System building and anything related to it
 ### 🌐 **WebAnimations Project**
 An experimental playground focused on creative and technical web visuals.  
 I explore:
-- Custom canvas-based particle systems  
-- Organic, fluid motion shapes  
-- Interactive visual effects  
-- Experimental UI / UX motion  
+- 🎨 Canvas-based particle systems
+- 🌊 Organic, fluid motion effects
+- ✨ Interactive visual animations
+- 🧪 Experimental UI / micro-interactions
 
-🔗 *A collection of animation experiments built with JavaScript & Canvas.*
+🔗 Live Demo: **[web-animations](https://koliashwin.github.io/web-animations/)**
+
+*(Actively experimenting and adding new effects)*
 
 ---
 
@@ -98,6 +100,7 @@ The project focuses on:
 - Creating structured workflows  
 
 🔗 Status: **In Development**  
+
 *(This project evolves as I refine the concept and architecture.)*
 
 ---
