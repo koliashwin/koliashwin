@@ -86,7 +86,7 @@ I explore:
 - ✨ Interactive visual animations
 - 🧪 Experimental UI / micro-interactions
 
-🔗 Live Demo: **[My Animation Lab](https://web-animations-labs.vercel.app/)**
+🔗 Live Demo: **[My Animation Lab](https://web-animations-gold.vercel.app/)**
 
 *(Actively experimenting and adding new effects)*
 
