@@ -37,6 +37,13 @@ Web Animations, System building and anything related to it
 
 ---
 
+## GitHub Stats
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/koliashwin?cardType=github&theme=github-dark&preferLogin=true)](https://git.io/awesome-stats-card)
+
+(Starts dont match, may be the Api not properly fetching data)
+
+---
+
 ## 🛠 Tech Stack  
 ### 🔥 **Game Development**
 <p>
